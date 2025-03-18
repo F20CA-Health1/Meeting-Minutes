@@ -15,6 +15,9 @@ Minutes taken by: zj2009
 
 ## Allocation
 
+![assign](framework.jpg)
+
+
 ## Overleaf 
 
 https://www.overleaf.com/project/67c70b0844af9e93f07aa5f1 
