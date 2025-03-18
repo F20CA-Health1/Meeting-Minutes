@@ -31,5 +31,7 @@ https://linear.app/f20ca-health1/project/final-report-4c841aed91b7
 
 # Questions for Meeting
 
-- 
+- Personal report(contents;template)
+- Final submission time
+  
 
