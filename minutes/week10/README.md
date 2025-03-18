@@ -44,4 +44,4 @@ Details about demo: next week to discuss (how to organize the structure of demo/
 - Personal report(contents;template)
 - Final submission time
   
-
+Canvas demo assessment： content is important
