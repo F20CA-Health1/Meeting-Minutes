@@ -1,6 +1,6 @@
 # Minutes
 
-Note: Report; Integration
+Note: Allocation for Report Writing; Integration GitHub Rep 
 
 Present: am2102, rv2009, zj2009, lh2020, zy2017,jk2023
 
@@ -8,26 +8,26 @@ Minutes taken by: zj2009
 
 ## Agenda
 
-- Discuss integration for Health System
-- decide the report's structure
+- Allocation for report writing
+- Integration package uppload to Github rep with same format
 
 # Topics
 
-## Integration Method
+## Allocation
 
-It should be converted into python package for each module,
+## Overleaf 
 
-Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
+https://www.overleaf.com/project/67c70b0844af9e93f07aa5f1 
 
-## Linear
+### Linear issue about report
 
 https://linear.app/f20ca-health1/project/final-report-4c841aed91b7 
 
-## Local Model Choices:
+## Integration
 
-- Llama3: 8b
-- Deepseek: 7b
-- MED42-V2
+Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
+
+
 
 # Questions for Meeting
 
