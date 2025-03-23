@@ -20,7 +20,10 @@ Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
 
 ## Demo
 
-Details about demo: next week to discuss (how to organize the structure of demo/contents of demo)
+Details about demo:
+
+- time
+- 
 
 ## Report
 
