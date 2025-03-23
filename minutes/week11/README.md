@@ -12,20 +12,20 @@ Minutes taken by: zj2009
 - Demo
 - Report
 
-# Topics
+## Topics
 
-## Integration
+### Integration
 
 Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
 
-## Demo
+### Demo
 
 Details about demo:
 
 - time
 - 
 
-## Report
+### Report
 
 https://www.overleaf.com/project/67c70b0844af9e93f07aa5f1 
 
@@ -36,7 +36,7 @@ parts of report have been finished
 By the end of this week (week 11), first draft for report have to be finished
 
 
-# Questions for Meeting
+## Questions for Meeting
 
 
 
