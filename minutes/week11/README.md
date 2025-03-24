@@ -14,6 +14,10 @@ Minutes taken by: zj2009
 
 ## Topics
 
+## Time
+
+Next Monday
+
 ### Integration
 
 Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
