@@ -21,7 +21,7 @@ Minutes taken by: zj2009
   am2102
 - what your demo is showing – i.e. what your system’s new features are (1 or 2  slides)
   
-rv2009 am2102
+  rv2009 am2102
 //RAG GUI
 - system architecture and the main software / NLP modules that your team worked on (1 or 2 slides)
   
