@@ -14,7 +14,9 @@ Minutes taken by: zj2009
 
 ## Topics
 
-### Allocation
+### Demo Allocations
+
+Time is very important!!!
 
 - the overall concept and aims of your system (1 slide)
   
@@ -34,18 +36,12 @@ Minutes taken by: zj2009
 
 ### Time
 
-Next Monday
+Next Monday Lecture
 
 ### Integration
 
 Integration rep: https://github.com/F20CA-Health1/Healthcare-Assistant
 
-### Demo
-
-Details about demo:
-
-- time
-- 
 
 ### Report
 
