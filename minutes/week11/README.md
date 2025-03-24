@@ -24,12 +24,12 @@ Minutes taken by: zj2009
   rv2009 am2102
 //RAG GUI
 - system architecture and the main software / NLP modules that your team worked on (1 or 2 slides)
-  
- lh2020 jk2033
+
+  lh2020 jk2033
 //framework + module introduction briefly 
 - any interesting or surprising findings or results of your project so far (1 slide)
-  
- zj2009/zy2017
+
+  zj2009/zy2017
 //safety-finetuned + safety-RAG + HE evaluation; 
 
 ### Time
